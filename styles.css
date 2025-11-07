@@ -1,0 +1,66 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color: #1a1a1a;
+    color: #eee;
+    }
+    
+    header{
+    font-size: 1.2em;
+    margin: 0;
+    text-align: center;
+    }
+    
+    header p{
+    font-size: 1.2em;
+    margin: 5px 0 20px;
+    font-style: italic;
+    }
+    
+    header img {
+    max-width: 100%;
+    height: auto;
+    width: 50%;
+    border-radius: 10pt;
+    }
+    
+    main {
+    max-width: 900px;
+    margin: 40px;
+    padding: 0 20px;
+    }
+    
+    .tribute{
+    background-color: #fff;
+    padding: 20px;
+    margin-bottom: 30px;
+    border-radius: 10px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    }
+    
+    .tribute p{
+    font-size: 1.1em;
+    text-align: justify;
+    }
+    
+    .achivements {
+    background-color: #1a1a1a;
+    padding: 20px;
+    border-radius: 10px;
+    }
+    
+    .achivements h3 {
+    text-align: center;
+    margin-bottom: 15px;
+    }
+    
+    .achivements ul {
+    list-style-type: square;
+    padding-left: 20px;
+    }
+    
+    .achivements li {
+    margin-bottom: 10px;
+    }
